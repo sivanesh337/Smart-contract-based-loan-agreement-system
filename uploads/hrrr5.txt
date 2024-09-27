@@ -1,0 +1,4 @@
+mobile cloud environments, where mobile devices are integrated with cloud computing to
+facilitate medical data exchanges among patients and healthcare providers. This advanced model enables
+healthcare services with low operational cost, high exibility, and EHRs availability. However, this new
+paradigm also raises concerns about data privacy and
